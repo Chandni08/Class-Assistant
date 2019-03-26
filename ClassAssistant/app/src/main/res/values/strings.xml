@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Class Assistant</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> To-Do </item>
+        <item> Logout </item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 5 </item>
+        <item> Description 6 </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item>Monday </item>
+        <item>Tuesday </item>
+        <item>Wednesday</item>
+        <item>Thursday </item>
+        <item>Friday </item>
+        <item>Saturday </item>
+        <item>Sunday </item>
+    </string-array>
+
+
+    <string-array name="Monday">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Friday">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Sunday">
+        <item>abcd </item>
+
+    </string-array>
+
+
+    <string-array name="Time1">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Time2">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Time3">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Time4">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Time5">
+        <item>abcd </item>
+
+    </string-array>
+
+    <string-array name="Time6">
+        <item>abcd </item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
